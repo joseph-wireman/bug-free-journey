@@ -9,8 +9,8 @@
 
 <channel>
 	<title>joe &#8211; admin</title>
-	<atom:link href="http://www.joseph-wireman.github.io/bug-free-journey/author/joe/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.joseph-wireman.github.io/bug-free-journey</link>
+	<atom:link href="https://www.joseph-wireman.github.io/bug-free-journey/author/joe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.joseph-wireman.github.io/bug-free-journey</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 05 Nov 2021 04:17:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/</link>
-					<comments>http://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/#comments</comments>
+		<link>https://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/</link>
+					<comments>https://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[joe]]></dc:creator>
 		<pubDate>Fri, 05 Nov 2021 04:17:10 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://www.joseph-wireman.github.io/bug-free-journey/?p=1</guid>
+		<guid isPermaLink="false">https://www.joseph-wireman.github.io/bug-free-journey/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.joseph-wireman.github.io/bug-free-journey/2021/11/05/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
